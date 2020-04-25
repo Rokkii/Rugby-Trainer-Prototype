@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a1d24fd80ca509a4582aaa92bc982660
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialIntro.unity
+    guid: ef3b5b0aed4439041aa9f41025746dd4
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/MovementControls.unity
+    guid: 49e611631aa73ab469f41a9e1f1c9f9c
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/PassingControls.unity
+    guid: 30e364b1dd137a34484de3e58528debc
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TackleTutorial.unity
+    guid: 553f3bc6ef398a04e914ddc81611b6f0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TacticalTutorial.unity
+    guid: 93899fc2708f5f347969a0b94e933b7b
+  - enabled: 1
+    path: Assets/Scenes/InfoScenes/Attack Decisions.unity
+    guid: c419134ad397b934c9de16aab447706a
+  - enabled: 1
+    path: Assets/Scenes/Attack Decisions/2 v 1.unity
+    guid: 84f04023b28ac714a840ef70ee76d56c
+  - enabled: 1
+    path: Assets/Scenes/Attack Decisions/3 v 2.unity
+    guid: a6e7f03a7094b59418e78ac98c3c60d7
+  - enabled: 1
+    path: Assets/Scenes/InfoScenes/Defensive Decisions.unity
+    guid: 7368ed8ce976dfc47b2aab8bb0caeabd
+  - enabled: 1
+    path: Assets/Scenes/Defensive Decisions/3 v 3.unity
+    guid: 8658c03ed123f8f4988ad7979aad0628
+  - enabled: 1
+    path: Assets/Scenes/Defensive Decisions/Overlap D.unity
+    guid: 283d20ed23836b24bae178d60bce4f62
+  - enabled: 1
+    path: Assets/Scenes/InfoScenes/Tactical Decisions.unity
+    guid: 1c3278d4f8718c845a4654754f455250
+  - enabled: 1
+    path: Assets/Scenes/Tactical Choices/KickForTouch.unity
+    guid: dd7afba2c6045ea4c93ba6f940cc059d
+  - enabled: 1
+    path: Assets/Scenes/Tactical Choices/PassWide.unity
+    guid: 2cb58f2c5127bb741b70801933c71dfa
+  - enabled: 1
+    path: Assets/Scenes/InfoScenes/EndScene.unity
+    guid: 935a3446157bab540892cf5e31c22280
+  m_configObjects: {}
